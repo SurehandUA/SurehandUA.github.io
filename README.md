@@ -1,3 +1,6 @@
 # Oleksandr Zatsepin
+
 Различные курсы и тренинги.
-1. [Курс Веб-разработчик](https://SurehandUA.github.io/web/ "youtube Glo Academy")
+Курс Веб-разработчик
+
+1. [Урок 7](https://SurehandUA.github.io/web/lesson7)
